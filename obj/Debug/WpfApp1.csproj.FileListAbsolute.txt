@@ -1,0 +1,27 @@
+E:\инфа\скорогудаева\3\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\инфа\скорогудаева\3\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\инфа\скорогудаева\3\WpfApp1\obj\Debug\App.g.cs
+E:\инфа\скорогудаева\3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\инфа\скорогудаева\3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\App.g.cs
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\инфа\аааа шарп\3\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\инфа\аааа шарп\3\WpfApp1\bin\Debug\WpfApp1.exe
+E:\инфа\аааа шарп\3\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\инфа\аааа шарп\3\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\инфа\аааа шарп\3\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\инфа\аааа шарп\3\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.xml
+E:\инфа\аааа шарп\3\WpfApp1\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\MainWindow.baml
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.exe
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WindowHistory.g.cs
+E:\инфа\аааа шарп\3\WpfApp1\obj\Debug\WindowHistory.baml
